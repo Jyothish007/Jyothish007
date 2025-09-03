@@ -44,9 +44,9 @@ I'm a passionate full-stack developer with expertise in building scalable and re
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Portfolio or Website](https://yourwebsite.com)
-- Email: your.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/jyothish-ps/)
+- [Portfolio or Website](https://portfolio-react-two-black.vercel.app/)
+- Email: jyothish6521@gmail.com
 
 ---
 
