@@ -34,9 +34,9 @@ I'm a passionate full-stack developer with expertise in building scalable and re
 
 ---
 
-## 🔧 Projects & Experience
+## 🔧 Experience
 
-- Developed scalable web applications using full-stack technologies at **GLabs Global**.
+- Developed scalable web applications using full-stack technologies at [GLabs Global](https://glabsglobal.com).
 - Implemented real-time data synchronization and database management.
 - Conducted code reviews, debugging, and testing to ensure high-quality code.
 
