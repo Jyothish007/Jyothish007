@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm JYOTHISH P S 👋
 
 I'm a passionate full-stack developer with expertise in building scalable and responsive web applications. I love turning ideas into functional code and continuously improving my skills in modern web technologies.
 
